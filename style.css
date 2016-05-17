@@ -1,3 +1,12 @@
 body{
+<<<<<<< HEAD
     background: red;
 }
+=======
+    background: green;
+    font-size: 21px;
+}
+h1{
+    color: #fff;
+}
+>>>>>>> origin/master
